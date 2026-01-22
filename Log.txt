@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "C:\Users\lk3\source\repos\Python_Grundkurs_2026_01_19\M012.py", line 41, in <module>
+    eineMethode()
+    ~~~~~~~~~~~^^
+  File "C:\Users\lk3\source\repos\Python_Grundkurs_2026_01_19\M012.py", line 38, in eineMethode
+    raise SystemError("Das ist ein Beispielsfehler")  # Fehlermeldung eingeben
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SystemError: Das ist ein Beispielsfehler
