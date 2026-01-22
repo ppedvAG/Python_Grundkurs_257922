@@ -4,3 +4,4 @@ class Rechner:
 
 	def subtrahiere(self, x, y):
 		return x - y
+

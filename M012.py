@@ -37,6 +37,7 @@ print("Ende des Programms")
 def eineMethode():
 	raise SystemError("Das ist ein Beispielsfehler")  # Fehlermeldung eingeben
 
+eineMethode()
 try:
 	eineMethode()
 except SystemError as e:
